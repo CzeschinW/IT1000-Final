@@ -5,7 +5,7 @@
 > - Student: at **University of Missouri**.
 > - Major: IT
 >> I transferred into IT after Computer Science when I learned that I wanted to do more than just Code. IT 1000 is my first class in the department and I am enjoying it a lot. Click *[here](https://engineering.missouri.edu/academics/it/)* to learn more about Mizzou's IT department.
->> To see some code I made during the semester click *[here](/Users/wilczeschin/Documents/IT_1000/FInal/.git/FInal-FB.html)*
+>> To see some code I made during the semester click *[here](https://github.com/CzeschinW/IT1000-Final/blob/main/fizzbuzz%20(1).html)*
 
 I'm from St. Charles, MO a city just outside of St. Louis. I went to *Duchesne High School* where I played Football and Volleyball and Graduated in 2019.
 
